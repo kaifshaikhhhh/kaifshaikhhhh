@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaifshaikhhhh&label=Profile%20views&color=0e75b6&style=flat" alt="kaifshaikhhhh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/stepbrogotchill" target="blank"><img src="https://img.shields.io/twitter/follow/stepbrogotchill?logo=twitter&style=for-the-badge" alt="stepbrogotchill" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaifshaikhhhh" alt="kaifshaikhhhh" /></a> </p>
 
 - 🌱 I’m currently learning **Python and Neural Networks**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1XQ4z-NCG4qdc44zcscmNOtIoccnMiVU8/edit?usp=sharing&ouid=109173448958871695442&rtpof=true&sd=true](https://docs.google.com/document/d/1XQ4z-NCG4qdc44zcscmNOtIoccnMiVU8/edit?usp=sharing&ouid=109173448958871695442&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I have a good music taste as well as fashion 👀**
+- ⚡ Fun fact **I have a good music taste as well as great fashion sense 👀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaifshaikhhhh&show_icons=true&theme=dark&locale=en&layout=compact" alt="kaifshaikhhhh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaifshaikhhhh&show_icons=true&theme=dark&locale=en" alt="kaifshaikhhhh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaifshaikhhhh&theme=dark" alt="kaifshaikhhhh" /></p>
