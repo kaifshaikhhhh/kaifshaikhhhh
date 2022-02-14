@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Kaif Shaikh</h1>
-<h3 align="center">Currently pursuing B. Tech CSE passionate about AI & MLOps.</h3>
+<h3 align="center">Currently pursuing B. Tech CSE and I'm passionate about AI & MLOps.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaifshaikhhhh&label=Profile%20views&color=0e75b6&style=flat" alt="kaifshaikhhhh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kaifshaikhhhh&label=Profile%20views&color=0e75b6&style=flat" alt="kaifshaikhhhh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaifshaikhhhh" alt="kaifshaikhhhh" /></a> </p>
+<p align="center"> I'm looking for ![GitHub sponsors](https://github.com/sponsors/kaifshaikhhhh). </p>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kaifshaikhhhh&column=8&theme=algolia&no-frame=true"/>
+</a>
+
+## About Me : )
 
 - 🌱 I’m currently learning **Python and Neural Networks**
 
 - 📫 How to reach me **kaifs0351@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1XQ4z-NCG4qdc44zcscmNOtIoccnMiVU8/edit?usp=sharing&ouid=109173448958871695442&rtpof=true&sd=true](https://docs.google.com/document/d/1XQ4z-NCG4qdc44zcscmNOtIoccnMiVU8/edit?usp=sharing&ouid=109173448958871695442&rtpof=true&sd=true)
+- 📄 Know about my experiences [AIML CV](https://docs.google.com/document/d/1XQ4z-NCG4qdc44zcscmNOtIoccnMiVU8/edit?usp=sharing&ouid=109173448958871695442&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I have a good music taste as well as great fashion sense 👀**
 
@@ -20,7 +27,6 @@
 <a href="https://fb.com/https://www.facebook.com/kaifshaikhhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kaifshaikhhhh" height="30" width="40" /></a>
 <a href="https://instagram.com/kaifshaikhhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaifshaikhhhh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kaifshaikhhhh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kaifshaikhhhh" height="30" width="40" /></a>
-<a href="https://discord.gg/sussybaka#4897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sussybaka#4897" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaifshaikhhhh&show_icons=true&theme=dark&locale=en&layout=compact" alt="kaifshaikhhhh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaifshaikhhhh&show_icons=true&theme=dark&locale=en" alt="kaifshaikhhhh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kaifshaikhhhh&show_icons=true&theme=dark&locale=en" alt="kaifshaikhhhh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaifshaikhhhh&theme=dark" alt="kaifshaikhhhh" /></p>
