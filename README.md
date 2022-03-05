@@ -38,5 +38,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaifshaikhhhh&layout=compact&theme=dark&&langs_count=8" alt="kaifshaikhhhh" />
 </a>
 <a href="https://github.com/kaifshaikhhhh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kaifshaikhhhh&theme=dark" alt="kaifshaikhhhh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaifshaikhhhh&theme=dark" alt="kaifshaikhhhh">
 </a>
