@@ -7,16 +7,16 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kaifshaikhhhh&column=8&theme=algolia&no-frame=true">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kaifshaikhhhh&column=8&theme=onestar&no-frame=true&no-bg=true">
 </a>
 
 ## About Me : )
 
-- 🌱 I’m currently learning **Python and Neural Networks**
+- 🌱 I’m currently learning **Machine Learning and AWS**
 
-- 📫 Let's talk more over mail **kaifs0351@gmail.com**
+- 📫 Let's talk more: **kaifs0351@gmail.com**
 
-- 📄 Know about my experiences [Curriculum Vitae](https://app.flowcv.io/resume-feedback/ljV-B6QgRyvIzxJG1n8sO)
+- 📄 Why people impressed with me: [Curriculum Vitae](https://app.flowcv.io/resume-feedback/ljV-B6QgRyvIzxJG1n8sO)
 
 - ⚡ Fun fact **I have a good music taste as well as great fashion sense 👀**
 
