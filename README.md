@@ -16,7 +16,7 @@
 
 - 📫 Let's talk more: **kaifs0351@gmail.com**
 
-- 📄 Why people impressed with me: [Curriculum Vitae](https://app.flowcv.io/resume-feedback/ljV-B6QgRyvIzxJG1n8sO)
+- 📄 Why people impressed with me: [Curriculum Vitae](https://app.flowcv.com/resume-feedback/ljV-B6QgRyvIzxJG1n8sO)
 
 - ⚡ Fun fact **I have a good music taste as well as great fashion sense 👀**
 
