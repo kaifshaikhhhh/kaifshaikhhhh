@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src="https://user-images.githubusercontent.com/67305606/156887920-8a095d04-0f19-4180-9d20-c37d9066dd49.gif" width=35px> I'm Kaif Shaikh</h1>
+<h1 align="center"> Hi there, I'm Kaif Shaikh</h1>
 
 
 <h3 align="center">Diligent & driven university student at D. Y. Patil International University, Pune with a passion of programming and innovating. Planning to pursue Artificial Intelligence & Machine Learning specialization track in the core years of my graduation degree. Nevertheless, learning and creativity has no limits, also deeply invested in Motion Graphics & Designing various graphic assets.</h3>
