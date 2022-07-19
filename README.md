@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Kaif Shaikh</h1>
+<h1 align="center"> Hi there, I'm Kaif</h1>
 
 
 <h3 align="center">Diligent & driven university student at D. Y. Patil International University, Pune with a passion of programming and innovating. Planning to pursue Artificial Intelligence & Machine Learning specialization track in the core years of my graduation degree. Nevertheless, learning and creativity has no limits, also deeply invested in Motion Graphics & Designing various graphic assets.</h3>
