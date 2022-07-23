@@ -1,5 +1,11 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on AI and Robotics Projects.<br>🤝 I’m looking for help with Robotics.<br>🌱 I’m currently learning Machine Learning and AWS.<br>💬 Ask me about motion graphics and editing.
+- Undergrad student pursuing B. Tech in Computer Science & Technology from D. Y. Patil International University, Pune.
+- Skillful Graphic Designer & Editor with core knowledge about Adobe Photoshop, Adobe After Effects, Adobe Premiere Pro & Adobe Audition. Rookie creator in Blender & Cinema 4D.
+- Blockchain Enthusiast & frisky Crypto investor.
+- Competent UI/UX designer with stellar expertise in Figma, Adobe XD, Rive & Lunacy.
+- Erudite Discord operator, administered 7+ partnered servers in the past.
+- Presently working in Campus TEDx Team as lead Videographer and Editor.
+- Empowered about sustainability and tenable environment.
 
 
 ## 🌐 Socials:
