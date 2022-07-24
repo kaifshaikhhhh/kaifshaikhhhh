@@ -1,3 +1,5 @@
+![header](https://user-images.githubusercontent.com/67305606/180655811-555e0a03-495a-41e4-8c20-a3872fe818e3.png)
+
 # 💫 About Me:
 - Undergrad student pursuing B. Tech in Computer Science & Technology from D. Y. Patil International University, Pune.
 - Skillful Graphic Designer & Editor with core knowledge about Adobe Photoshop, Adobe After Effects, Adobe Premiere Pro & Adobe Audition. Rookie creator in Blender & Cinema 4D.
@@ -23,7 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaifshaikhhhh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kaifshaikhhhh&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=12)
+![](https://github-profile-trophy.vercel.app/?username=kaifshaikhhhh&theme=juicyfresh&no-frame=false&no-bg=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kaifshaikhhhh&icon=4&color=9)](https://visitcount.itsvg.in)
