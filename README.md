@@ -22,7 +22,7 @@
 
 # 👨‍💻 Language Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaifshaikhhhh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaifshaikhhhh&count_private=false&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kaifshaikhhhh&theme=juicyfresh&no-frame=false&no-bg=false)
