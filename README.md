@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/67305606/180655811-555e0a03-495a-41e4-8c20-a3872fe818e3.png)
+# Hey, I'm Kaif
 
 # 💫 About Me:
 - Undergrad student pursuing B. Tech in Computer Science & Technology from D. Y. Patil International University, Pune.
