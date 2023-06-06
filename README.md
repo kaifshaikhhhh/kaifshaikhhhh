@@ -8,11 +8,11 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://kaifshaikhhhh.medium.com/)
 
 # 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaifshaikhhhh&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaifshaikhhhh&theme=solarized&exclude=sourcepawn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaifshaikhhhh&theme=solarized&exclude=sourcepawn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaifshaikhhhh&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaifshaikhhhh&theme=solarized&utcOffset=5.3)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaifshaikhhhh&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaifshaikhhhh&theme=algolia&exclude=sourcepawn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaifshaikhhhh&theme=algolia&exclude=sourcepawn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaifshaikhhhh&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaifshaikhhhh&theme=algolia&utcOffset=5.3)
   
 ### Languages & Frameworks
 
@@ -40,5 +40,5 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-trophies.vercel.app/?username=kaifshaikhhhh&row=2&column=6&theme=algolia)
+![](https://github-trophies.vercel.app/?username=kaifshaikhhhh&row=2&column=6&theme=algolia&no-bg=true&no-frame=true)
 </div>
