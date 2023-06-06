@@ -1,8 +1,6 @@
 <div align="center">
 
 # Hey, I'm Kaif
-![github-user-contribution](https://github.com/kaifshaikhhhh/kaifshaikhhhh/assets/67305606/e3b0c354-6399-4df3-a7cc-df26798e5b56)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaifshaikhhh/)
 [![](https://visitcount.itsvg.in/api?id=kaifshaikhhhh&icon=1&color=11)](https://visitcount.itsvg.in)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://kaifshaikhhhh.medium.com/)
